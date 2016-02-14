@@ -1,9 +1,9 @@
 var uniqueRandomArray = require('unique-random-array');
-var metalNames = require("./metal-names.json");
+var metalNames = require("./black-sabbath.json");
 
 
 module.exports = {
-  all: metalNames,
-  random: uniqueRandomArray(metalNames)
+  all: metalNamesSabbath,
+  random: uniqueRandomArray(metalNamesSabbath)
 
 };
