@@ -1,25 +1,27 @@
 {
-  "name": "metalnames",
+  "name": "sabbath-metalnames",
   "version": "1.0.0",
-  "description": "list of metal names",
+  "description": "list of Black Sabbath metal names",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Paranoid!: No test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loudowl/metalnames.git"
+    "url": "git+https://github.com/bob2314/sabbath-metalnames.git"
   },
   "keywords": [
     "metal",
-    "names"
+    "names",
+    "black",
+    "sabbath"
   ],
-  "author": "Chris I",
+  "author": "bob2314",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loudowl/metalnames/issues"
+    "url": "https://github.com/bob2314/sabbath-metalnames/issues"
   },
-  "homepage": "https://github.com/loudowl/metalnames#readme",
+  "homepage": "https://github.com/bob2314/sabbath-metalnames#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   }
