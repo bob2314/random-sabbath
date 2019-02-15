@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loudowl/metalnames.git"
+    "url": "git+https://github.com/bob2314/sabbath-metalnames"
   },
   "keywords": [
     "metal",
@@ -17,9 +17,9 @@
   "author": "Chris I",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loudowl/metalnames/issues"
+    "url": "https://github.com/bob2314/sabbath-metalnames/issues"
   },
-  "homepage": "https://github.com/loudowl/metalnames#readme",
+  "homepage": "https://github.com/bob2314/sabbath-metalnames#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   }
