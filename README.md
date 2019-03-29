@@ -1,6 +1,8 @@
 # sabbath-metalnames
 list of metal names
 
+--test
+
 ![Logo of the project](./bslogo125.jpg)
 
 # Project
